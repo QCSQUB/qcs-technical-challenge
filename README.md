@@ -1,4 +1,4 @@
-# week-one-tsc
+# QCS Technical Skills Challenge
 Week one of the QCS Technical Skills Challenge: General Problem Solving Tips.
 
 If you would like to download this but don't want to learn how to use git, you can click the green "Clone/Download" button above then download a zip file. I'd recommend learning how to use git though!
