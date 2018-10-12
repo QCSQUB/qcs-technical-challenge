@@ -2,7 +2,7 @@
 
 EDIT: SORRY THERE'S BEEN A BIT OF A SLIP UP I'LL GET THE SLIDES UP LATER
 
-Week one of the QCS Technical Skills Challenge: General Problem Solving Tips.
+Week one of the QCS Technical Skills Challenge
 
 If you would like to download this but don't want to learn how to use git, you can click the green "Clone/Download" button above then download a zip file. I'd recommend learning how to use git though!
 
@@ -14,7 +14,7 @@ How to use this with git:
 (on windows you can ctrl+right click in your desired folder to directly open a terminal there)
 
 - Click the "Clone or Download" button above and copy the url inside. Go back to your terminal and type 
-`git clone https://github.com/QCSQUB/week-one-tsc.git`
+`git clone https://github.com/QCSQUB/qcs-technical-challenge.git`
 This will download everything here into that folder. Each week we'll upload the new files here, so you can just go to the directory in the terminal and use the command
 `git pull`
 to pull all those updates down to your system.
